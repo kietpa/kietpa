@@ -1,11 +1,11 @@
 ### Hi, I'm Kiet 👋
 
-I'm an aspiring software engineer who works in the back-end. I recently graduated from the *Sepuluh Nopember Institute of Technology* with a bachelor's degree in *Electrical-Engineering* (EE). My journey started with *Bangkit Academy* as a cloud engineer, and continued with *Hacktiv8* as a back-end. I'm always interested in learning new technologies and creating complex projects.
+I'm an aspiring software engineer who works in the back-end. I'm always interested in learning new technologies and creating complex projects.
 
 
 ## 🔭 Recent projects
 
-- [Kiwish](https://github.com/arvisy/kiwish) - An e-commerce application made with Go, gRPC, Microservices, and many other technologies.
+- [Kiwish](https://github.com/arvisy/kiwish) - An e-commerce application made with Go, gRPC, and Microservices.
 - [Hotel 626](https://github.com/kietpa/hotel-626) - A simple REST API for a hotel.
 - [Clothera](https://github.com/kietpa/clothera) - A CLI app for a clothing shop.
 
@@ -13,7 +13,7 @@ I'm an aspiring software engineer who works in the back-end. I recently graduate
 
 - **Data structures & algorithms.** Mainly focusing on the basic ones such as hashing, stack, binary search, etc. 
 - **Advanced Go testing.** Learning how to create better unit tests, mocks, gRPC tests, integration tests, API tests, etc. 
-- How to create an emulator or interpreter. To gain deeper knowledge.
+- How to create an emulator or interpreter.
 
 ## 🛢️ Tech Stack
 
