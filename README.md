@@ -1,6 +1,6 @@
 ### Hi, I'm Kiet 👋
 
-I'm an aspiring software engineer who works in the back-end. I'm always interested in learning new technologies and creating complex projects.
+I'm an aspiring software engineer who works in the back-end. I'm always interested in learning new technologies and creating complex projects. Check out my [personal website](https://kiet.blog).
 
 
 ## 🔭 Recent projects
