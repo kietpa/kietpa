@@ -11,9 +11,9 @@ I'm an aspiring software engineer who works in the back-end. I'm always interest
 
 ## 🌱 I’m currently learning
 
+- Java
 - **Data structures & algorithms.** Mainly focusing on the basic ones such as hashing, stack, binary search, etc. 
-- **Advanced Go testing.** Learning how to create better unit tests, mocks, gRPC tests, integration tests, API tests, etc. 
-- How to create an emulator or interpreter.
+- **Advanced Go testing.** Learning how to create better unit tests, mocks, gRPC tests, integration tests, API tests, etc.
 
 ## 🛢️ Tech Stack
 
