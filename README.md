@@ -1,6 +1,6 @@
 ### Hi, I'm Kiet 👋
 
-I'm a software engineer who works in the back-end mainly using Go and Java. I'm always interested in learning new technologies and creating complex projects. Check out my [personal website](https://kiet.blog).
+I'm a software engineer who works in the back-end using Go and Java. Always interested in learning new technologies and creating complex projects. Check out my [personal website](https://kiet.blog).
 
 
 ## 🔭 Recent projects
@@ -23,6 +23,7 @@ I'm a software engineer who works in the back-end mainly using Go and Java. I'm 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Javascript" title="Javascript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
 </div>
 
