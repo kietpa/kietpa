@@ -1,6 +1,6 @@
 ### Hi, I'm Kiet 👋
 
-I'm a software engineer who works in the back-end using Go and Java. Always interested in learning new technologies and creating complex projects. Check out my [personal website](https://kiet.blog).
+I'm a software engineer who works in the back-end using Go and Java. Always interested in learning new technologies and creating complex projects. Check out my [personal website](https://kietpa.github.io/).
 
 
 ## 🔭 Recent projects
